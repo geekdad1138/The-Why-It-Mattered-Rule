@@ -51,14 +51,14 @@ Youre talking about lineage. Provenance. Why the buttons mattered, not just who 
 
 Let me give you a few strong concepts, then one I think is the idea for you.  
 
-### The Core Reframe (this is important)
+Concept: The “Why It Mattered” Rule (this is key)
 
-Dont frame it as:  
-History of Computing and AI  
+Every page must answer this question in plain English:
 
-That sounds academic and dead.  
+“If this never happened, what would we not have today?”
 
-Frame it as:  
-How we got here, step by step, by people who didnt know they were changing the world yet.  
+No math.
+No jargon.
+No ego.
 
-This is a love letter + map, not a textbook.  
+Just causality.

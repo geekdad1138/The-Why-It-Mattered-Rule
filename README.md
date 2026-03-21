@@ -4,6 +4,23 @@
 
 ---
 
+## **The Three-Pillar Framework**
+
+| Pillar | Focus |
+| --- | --- |
+| **[Pillar 1: The Heritage](#pillar-1-the-heritage-of-computing)** | Hardware, History, and Networking |
+| **[Pillar 2: The Architecture](#pillar-2-the-architecture-of-intelligence)** | LLM Mechanics, Vectors, and Latent Space |
+| **[Pillar 3: The Era of Agency](#pillar-3-the-era-of-agency)** | Spec-Driven Dev and Industrial Robotics |
+
+---
+
+## **Pillar 1: The Heritage of Computing**
+
+> *How did we build the machines?*
+> This section covers the physical and logical foundations—from the first algorithms to the global internet.
+
+---
+
 ### **The Foundations**
 
 | The Event/Person | The "Why It Mattered" Rule | Deep Dive |
@@ -35,6 +52,7 @@
 | **The IBM PC (1981)** | The "Corporate Seal of Approval" that created the enterprise IT world. | It ended the era of "boutique" hardware and gave businesses a standardized platform they could finally trust. | [View Entry](./details/ibm-pc.md) |
 | **The GUI (Xerox PARC)** | The visual bridge between humans and machines. | It allowed us to visualize complex data and UI, even while we were still doing the "real work" in a terminal. | [View Entry](./details/the-gui.md) |
 | **The Intel 80386 (1985)** | The first chip that truly allowed for "Multitasking." It gave the PC the "High-Reasoning" capability needed to run modern operating systems like Windows NT and Linux. | [View Entry](./details/intel-80386.md) |
+| **Geoffrey Hinton (1986)** | If he hadn't perfected Backpropagation, AI wouldn't be able to "learn." | [View Entry](./details/geoffrey-hinton.md) |
 | **Windows 3.1 / 95** | Moved the graphical desktop to the masses. It turned the PC into a household appliance, making the "Start" button the most recognized doorway in the world. | [View Entry](./details/windows.md) |
 | **Linux (1991)** | The free, stable foundation that runs the modern cloud and the industrial robotics infrastructure of the 21st century. It proved collaborative engineering could outperform corporations. | [View Entry](./details/linux.md) |
 | **The Mosaic Browser (1993)** | By adding images and a "Back" button, it turned a text-only network for researchers into a visual world that anyone could navigate. | [View Entry](./details/mosaic.md) |
@@ -47,3 +65,30 @@
 | :--- | :--- | :--- |
 | **The Spreadsheet (VisiCalc)** | The reason the PC became a "tool" instead of a "toy." It was the "Killer App" that convinced the business world that computers were a necessity for survival. | [View Entry](./details/visicalc.md) |
 | **"Attention Is All You Need" (2017)** | The Transformer paper. If this hadn't been written, AI would still hit a wall with memory. It's the reason LLMs can understand context across a whole paragraph. | [View Entry](./details/transformers.md) |
+
+---
+
+## **Pillar 2: The Architecture of Intelligence**
+
+> *How do the machines "think"?*
+> Moving from simple data retrieval to high-reasoning models. This pillar explores the mathematical maps and tokenization that make AI possible.
+
+| The Concept | The "Why It Mattered" Rule | Deep Dive |
+| --- | --- | --- |
+| **Backpropagation** | If we couldn't automate "learning," AI would be a static list of rules. | The ultimate application of the **Chain Rule**; it turns calculus into machine intelligence. | [View Entry](./details/backpropagation.md) |
+| **Tokenization** | The bridge from text to math. It's how we slice language into a format the machine can actually process. | [View Entry](./details/tokenization.md) |
+| **The Latent Space** | If we hadn't mapped language to math, AI would just be a search engine. It allows machines to understand relationships between ideas. | [View Entry](./details/latent-space.md) |
+| **MS Windows** | The unification of the graphical interface for the masses. | It turned the PC into a household appliance and a standardized enterprise platform. | [View Entry](./details/windows.md) |
+
+---
+
+## **Pillar 3: The Era of Agency**
+
+> *How do we make the machines act?*
+> The transition from chat interfaces to specialized agents that can execute tasks, follow technical specifications, and interact with the physical world.
+
+| The Methodology | The "Why It Mattered" Rule | Deep Dive |
+| --- | --- | --- |
+| **Spec-Driven Dev** | The "Blueprint-First" approach. Using AI to build a project specification before writing a single line of code. | [View Entry](./details/spec-driven-dev.md) |
+| **Agentic Workflows** | From "telling" to "doing." Transitioning to specialized agents (e.g., Agent-DotNet-1) that operate within IDEs and industrial systems. | [View Entry](./details/agentic-workflows.md) |
+| **Industrial Robotics** | Moving the "Logic" into the physical world. | Integrating high-reasoning agents with physical manufacturing systems and automated workflows. | [View Entry](./details/robotics.md) |

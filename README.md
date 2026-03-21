@@ -91,4 +91,4 @@
 | --- | --- | --- |
 | **Spec-Driven Dev** | The "Blueprint-First" approach. Using AI to build a project specification before writing a single line of code. | [View Entry](./details/spec-driven-dev.md) |
 | **Agentic Workflows** | From "telling" to "doing." Transitioning to specialized agents (e.g., Agent-DotNet-1) that operate within IDEs and industrial systems. | [View Entry](./details/agentic-workflows.md) |
-| **Industrial Robotics** | Moving the "Logic" into the physical world. | Integrating high-reasoning agents with physical manufacturing systems and automated workflows. | [View Entry](./details/robotics.md) |
+| **The API** | The digital handshake that allows software to talk to other software. | The reason an AI can actually "do" things instead of just "say" things. | [View Entry](./details/the-api.md) |

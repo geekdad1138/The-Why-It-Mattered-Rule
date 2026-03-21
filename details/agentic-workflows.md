@@ -11,6 +11,6 @@ Traditional AI interaction is a single turn: User asks, AI answers. An **Agentic
 * **Error Correction:** Because the agent can see its own output, it can catch its own hallucinations before the user ever sees them.
 
 ### **The Professional Perspective**
-In a 30-year IT career, this is the biggest shift since the compiler.
+In an IT career, this is the biggest shift since the compiler.
 * **The Digital Team:** Using specialized agents within VS Code isn't just "faster coding"—it's a new form of systems orchestration.
 * **Scalability:** It allows a single senior architect to manage a "fleet" of agents, each handling a specific part of a massive technical stack.
